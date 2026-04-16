@@ -23,6 +23,7 @@ Then follow the instructions included with those patches. Voila! You now have a 
 Oh, but wait. You want to rebattle the regular trainers, don't you? No other reason to be here after all.
 
 OK, so after acquiring your Legacy rom, now download the zip file here: 
+
 https://github.com/regre55/REBATTLE/blob/main/YL%20%26%20CL%20REBATTLE%20CODES%2C%20CHEATS%20%26%20PATCHES.zip
 
 Just click View Raw and it'll download. Then unzip the contents and start first by...reading READ THIS FIRST.txt  
