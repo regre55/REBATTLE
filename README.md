@@ -30,7 +30,9 @@ Then proceed from there. And yes, the issues and their workarounds are explained
 Well, I wanted to make it newbie proof, since it is kind of confusing (again, thanks to those issues)
 
 Also if you're not sure how to play these games, this'll get you started:
+
 https://reddit.com/r/EmulationOnPC/wiki/index
+
 https://emulation.gametechwiki.com/index.php/Main_Page
 
 Also Youtube has plenty of videos that serve as guides and tutorials for both specific emulators and emulation in general.
