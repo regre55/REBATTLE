@@ -37,6 +37,6 @@ https://reddit.com/r/EmulationOnPC/wiki/index
 https://emulation.gametechwiki.com/index.php/Main_Page
 
 Also Youtube has plenty of videos that serve as guides and tutorials for both specific emulators and emulation in general.
-But really, the best way to get started if you're brand spanking new to emulation is to download one of the recommended emulators from the gametechwiki, acquire a rom for that emulator *somehow*, then start messing with the darn thing. 
+But really, the best way to get started, if you're brand spanking new to emulation, is to download one of the recommended emulators from the gametechwiki, acquire a rom for that emulator *somehow*, then start messing with the darn thing. 
 You'll get the hang of it before you know it.
 
